@@ -1,0 +1,118 @@
+LAPC CODING OUTPUT
+
+Enter the number of departments: 11
+
+Enter details for Department 1:
+Enter department name: EEE
+Enter the number of lights: 122
+Enter the number of rooms: 19
+Enter the number of fans: 76
+Enter the number of labs: 4
+Enter the total department area: 900.6738
+Enter the total length: 27.83
+
+Enter details for Department 2:
+Enter department name: Civil
+Enter the number of lights: 114
+Enter the number of rooms: 18
+Enter the number of fans: 47
+Enter the number of labs: 3
+Enter the total department area: 1248.442
+Enter the total length: 59.65
+
+Enter details for Department 3:
+Enter department name: Mechanical
+Enter the number of lights: 233
+Enter the number of rooms: 17
+Enter the number of fans: 143
+Enter the number of labs: 16
+Enter the total department area: 3006.1241
+Enter the total length: 90.01
+
+Enter details for Department 4:
+Enter department name: Staff quarters
+Enter the number of lights: 102
+Enter the number of rooms: 34
+Enter the number of fans: 84
+Enter the number of labs: 0
+Enter the total department area: 968.7294
+Enter the total length: 148.24
+
+Enter details for Department 5:
+Enter department name: principal house
+Enter the number of lights: 6
+Enter the number of rooms: 4
+Enter the number of fans: 10
+Enter the number of labs: 0
+Enter the total department area: 511.4335
+Enter the total length: 126.32
+
+Enter details for Department 6:
+Enter department name: Gents hostel
+Enter the number of lights: 310
+Enter the number of rooms: 175
+Enter the number of fans: 204
+Enter the number of labs: 0
+Enter the total department area: 2036.8985
+Enter the total length: 58.36
+
+Enter details for Department 7:
+Enter department name: Office room
+Enter the number of lights: 10
+Enter the number of rooms: 3
+Enter the number of fans: 3
+Enter the number of labs: 0
+Enter the total department area: 153.0872
+Enter the total length: 37.29
+
+Enter details for Department 8:
+Enter department name: Canteen
+Enter the number of lights: 32
+Enter the number of rooms: 2
+Enter the number of fans: 27
+Enter the number of labs: 0
+Enter the total department area: 165.5705
+Enter the total length: 76.25
+
+Enter details for Department 9:
+Enter department name: Bank
+Enter the number of lights: 38
+Enter the number of rooms: 5
+Enter the number of fans: 13
+Enter the number of labs: 0
+Enter the total department area: 108.514
+Enter the total length: 43.16
+
+Enter details for Department 10:
+Enter department name: Main block
+Enter the number of lights: 229
+Enter the number of rooms: 18
+Enter the number of fans: 94
+Enter the number of labs: 3
+Enter the total department area: 2320.9115
+Enter the total length: 56.6
+
+Enter details for Department 11:
+Enter department name: First year
+Enter the number of lights: 219
+Enter the number of rooms: 26
+Enter the number of fans: 174
+Enter the number of labs: 6
+Enter the total department area: 632.145
+Enter the total length: 30
+
+Table Format:
+
+| Department Name      | Lights     | Rooms      | Fans       | Labs       | Total Dept Area      | Total Length         |
+|--------------------- |------------|------------|------------|------------|--------------------- |--------------------- |
+| EEE                  | 122        | 19         | 76         | 4          | 900.67               | 27.83                |
+| Civil                | 114        | 18         | 47         | 3          | 1248.44              | 59.65                |
+| Mechanical           | 233        | 17         | 143        | 16         | 3006.12              | 90.01                |
+| Staff quarters       | 102        | 34         | 84         | 0          | 968.73               | 148.24               |
+| principal house      | 6          | 4          | 10         | 0          | 511.43               | 126.32               |
+| Gentshostel          | 310        | 175        | 204        | 0          | 2036.90              | 58.36                |
+| Officeroom           | 10         | 3          | 3          | 0          | 153.09               | 37.29                |
+| Canteen              | 32         | 2          | 27         | 0          | 165.57               | 76.25                |
+| Bank                 | 38         | 5          | 13         | 0          | 108.51               | 43.16                |
+| Mainblock            | 229        | 18         | 94         | 3          | 2320.91              | 56.60                |
+| Firstyear            | 219        | 26         | 174        | 6          | 632.15               | 30.00                |
