@@ -1,0 +1,88 @@
+KR ARTS & SCIENCE CLG CODING OUTPUT
+
+Enter the number of departments: 8
+
+Enter details for Department 1:
+Enter department name: B.sc,Maths
+Enter the number of lights: 20
+Enter the number of rooms: 4
+Enter the number of fans: 12
+Enter the number of labs: 0
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 2:
+Enter department name: B.sc,Microbiology
+Enter the number of lights: 20
+Enter the number of rooms: 4
+Enter the number of fans: 12
+Enter the number of labs: 1
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 3:
+Enter department name: B.sc,Biochemistry
+Enter the number of lights: 20
+Enter the number of rooms: 4
+Enter the number of fans: 12
+Enter the number of labs: 1
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 4:
+Enter department name: B.sc,Computerscience
+Enter the number of lights: 20
+Enter the number of rooms: 4
+Enter the number of fans: 12
+Enter the number of labs: 1
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 5:
+Enter department name: B.com,Prof.accounting
+Enter the number of lights: 20
+Enter the number of rooms: 4
+Enter the number of fans: 12
+Enter the number of labs: 0
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 6:
+Enter department name: M.sc,Computerscience
+Enter the number of lights: 25
+Enter the number of rooms: 5
+Enter the number of fans: 15
+Enter the number of labs: 1
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 7:
+Enter department name: M.sc,Microbiology
+Enter the number of lights: 25
+Enter the number of rooms: 5
+Enter the number of fans: 15
+Enter the number of labs: 1
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Enter details for Department 8:
+Enter department name: Staffroom
+Enter the number of lights: 30
+Enter the number of rooms: 6
+Enter the number of fans: 30
+Enter the number of labs: 0
+Enter the total department area: 879.2708
+Enter the total length: 113.67
+
+Table Format:
+
+| Department Name      | Lights     | Rooms      | Fans       | Labs       | Total Dept Area      | Total Length         |
+|--------------------- |------------|------------|------------|------------|--------------------- |--------------------- |
+| B.sc,Maths           | 20         | 4          | 12         | 0          | 879.2708             | 113.67               |
+| B.sc,Microbiology    | 20         | 4          | 12         | 1          | 879.2708             | 113.67               |
+| B.sc,Biochemistry    | 20         | 4          | 12         | 1          | 879.2708             | 113.67               |
+| B.sc,Computerscience | 20         | 4          | 12         | 1          | 879.2708             | 113.67               |
+| B.com,Prof.accounting| 20         | 4          | 12         | 0          | 879.2708             | 113.67               |
+| M.sc,Computerscience | 25         | 5          | 15         | 1          | 879.2708             | 113.67               |
+| M.sc,Microbiology    | 25         | 5          | 15         | 1          | 879.2708             | 113.67               |
+| Staff room           | 30         | 6          | 30         | 0          | 879.2708             | 113.67               |

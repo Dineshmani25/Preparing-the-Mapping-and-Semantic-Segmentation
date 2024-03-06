@@ -1,0 +1,168 @@
+NEC CODING OUTPUT
+
+Enter the number of departments: 16
+
+Enter details for Department 1:
+Enter department name: Civil
+Enter the number of lights: 174
+Enter the number of rooms: 17
+Enter the number of fans: 118
+Enter the number of labs: 5
+Enter the total department area: 1203.120
+Enter the total length: 82.31
+
+Enter details for Department 2:
+Enter department name: iT
+Enter the number of lights: 140
+Enter the number of rooms: 15
+Enter the number of fans: 120
+Enter the number of labs: 3
+Enter the total department area: 1972.05
+Enter the total length: 29.97
+
+Enter details for Department 3:
+Enter department name: first year
+Enter the number of lights: 242
+Enter the number of rooms: 26
+Enter the number of fans: 143
+Enter the number of labs: 5
+Enter the total department area: 1588.3626 
+Enter the total length: 277.19
+
+Enter details for Department 4:
+Enter department name: cse
+Enter the number of lights: 112
+Enter the number of rooms: 14
+Enter the number of fans: 84
+Enter the number of labs: 4
+Enter the total department area: 1278.9447
+Enter the total length: 109.5
+
+Enter details for Department 5:
+Enter department name: Administrative block
+Enter the number of lights: 35
+Enter the number of rooms: 8
+Enter the number of fans: 26
+Enter the number of labs: 0
+Enter the total department area: 628.9492
+Enter the total length: 15.54
+
+Enter details for Department 6:
+Enter department name: EEE
+Enter the number of lights: 234
+Enter the number of rooms: 18
+Enter the number of fans: 180
+Enter the number of labs: 9
+Enter the total department area: 2188.4972
+Enter the total length: 139.46
+
+Enter details for Department 7:
+Enter department name: AIDS
+Enter the number of lights: 84
+Enter the number of rooms: 10
+Enter the number of fans: 49
+Enter the number of labs: 3
+Enter the total department area: 1020.3416
+Enter the total length: 155.39
+
+Enter details for Department 8:
+Enter department name: ECE
+Enter the number of lights: 220
+Enter the number of rooms: 18
+Enter the number of fans: 135
+Enter the number of labs: 9
+Enter the total department area: 1488.1813
+Enter the total length: 211.48
+
+Enter details for Department 9:
+Enter department name: Mechanical
+Enter the number of lights: 234
+Enter the number of rooms: 15
+Enter the number of fans: 180
+Enter the number of labs: 12
+Enter the total department area: 1250.4007
+Enter the total length: 162.18
+
+Enter details for Department 10:
+Enter department name: library
+Enter the number of lights: 90
+Enter the number of rooms: 10
+Enter the number of fans: 50
+Enter the number of labs: 0
+Enter the total department area: 971.2359
+Enter the total length: 79.60
+
+Enter details for Department 11:
+Enter department name: MCA block
+Enter the number of lights: 50
+Enter the number of rooms: 13
+Enter the number of fans: 30
+Enter the number of labs: 0
+Enter the total department area: 630.775
+Enter the total length: 33.28
+
+Enter details for Department 12:
+Enter department name: Add building
+Enter the number of lights: 30
+Enter the number of rooms: 4
+Enter the number of fans: 10
+Enter the number of labs: 0
+Enter the total department area: 852.357
+Enter the total length: 11.23
+
+Enter details for Department 13:
+Enter department name: Gents hostel
+Enter the number of lights: 612
+Enter the number of rooms: 575
+Enter the number of fans: 520
+Enter the number of labs: 0
+Enter the total department area: 3377.8142
+Enter the total length: 450.4
+
+Enter details for Department 14:
+Enter department name: Ladies hostel
+Enter the number of lights: 420
+Enter the number of rooms: 410
+Enter the number of fans: 405
+Enter the number of labs: 0
+Enter the total department area: 4604.3953
+Enter the total length: 342.69
+
+Enter details for Department 15:
+Enter department name: Canteen
+Enter the number of lights: 54
+Enter the number of rooms: 3
+Enter the number of fans: 50
+Enter the number of labs: 0
+Enter the total department area: 700.2534
+Enter the total length: 87.79
+
+Enter details for Department 16:
+Enter department name: Auditorium
+Enter the number of lights: 148
+Enter the number of rooms: 1
+Enter the number of fans: 38
+Enter the number of labs: 0
+Enter the total department area: 1648.4858
+Enter the total length: 58.48
+
+Table Format:
+
+| Department Name      | Lights     | Rooms      | Fans       | Labs       | Total Dept Area      | Total Length         |
+|--------------------- |------------|------------|------------|------------|--------------------- |--------------------- |
+| Civil                | 174        | 17         | 118        | 5          | 2203.120             | 82.31                |
+| IT                   | 140        | 15         | 120        | 3          | 1972.05              | 29.97                |
+| First year           | 242        | 26         | 143        | 5          | 1588.3626            | 277.19               |
+| cse                  | 112        | 14         | 84         | 4          | 1278.9447            | 109.5                |
+| Administrative block | 35         | 8          | 26         | 0          | 628.9492             | 15.54                |
+| EEE                  | 234        | 18         | 180        | 9          | 2188.4972            | 139.46               |
+| AIDS                 | 84         | 10         | 49         | 3          | 1020.3416            | 155.39               |
+| ECE                  | 220        | 18         | 135        | 9          | 1488.1813            | 211.48               |
+| Mechanical           | 234        | 15         | 180        | 12         | 2250.400             | 162.18               |
+| library              | 90         | 10         | 50         | 0          | 971.2359             | 79.60                |
+| MCA block            | 50         | 13         | 13         | 0          | 630.775              | 33.28                |
+| Add building         | 30         | 4          | 10         | 0          | 852.357              | 11.23                |
+| Gents hostel         | 612        | 575        | 520        | 0          | 3377.8142            | 450.2                |
+| Ladies hostel        | 420        | 410        | 405        | 0          | 4604.3953            | 342.69               |
+| Canteen              | 54         | 2          | 50         | 0          | 700.2534             | 87.79                |
+| Auditorium           | 148        | 1          | 38         | 0          | 1648.4858            | 58.48                |
